@@ -102,7 +102,7 @@ Career Path/
 
 For questions or improvements, please contact the development team or refer to the inline documentation in `analisis unik.py`.
 
----
+link -> https://create-unique-data-to-csv.streamlit.app/
 
 **Version**: 1.0  
 **Last Updated**: December 2025  
